@@ -1,4 +1,5 @@
-## Hi there 👋
+## 송지현 / Song jihyun 👋
+---
 
 <!--
 **sjs33az/sjs33az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
